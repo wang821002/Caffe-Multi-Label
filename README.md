@@ -32,9 +32,10 @@ The BVLC reference models are released for unrestricted use.
 
 Please cite Caffe in your publications if it helps your research:
 
-    @article{wang2017chestx,
-    title={ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases},
-    author={Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Bagheri, Mohammadhadi and Summers, Ronald M},
-    journal={arXiv preprint arXiv:1705.02315},
-     year={2017}
+    @InProceedings{wang2017chestxray,
+        author = {Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Bagheri, Mohammadhadi and Summers, Ronald},
+        title = {ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases},
+        booktitle = {2017 IEEE Conference on Computer Vision and Pattern Recognition(CVPR)},
+        pages = {3462--3471},
+        year      = {2017}
     }
