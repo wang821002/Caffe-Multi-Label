@@ -30,7 +30,7 @@ Happy brewing!
 Caffe is released under the [BSD 2-Clause license](https://github.com/BVLC/caffe/blob/master/LICENSE).
 The BVLC reference models are released for unrestricted use.
 
-Please cite Caffe in your publications if it helps your research:
+Please cite our CVPR paper in your publications if it helps your research:
 
     @InProceedings{wang2017chestxray,
         author = {Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Bagheri, Mohammadhadi and Summers, Ronald},
